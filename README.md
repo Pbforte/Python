@@ -4,5 +4,5 @@ Proceso ETL
 
 Machine Learning 
 
-Visauliazación con Power BI
+Visaulización con Power BI
 
