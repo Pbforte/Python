@@ -1,8 +1,8 @@
-Proyexto final bootcamp Neolan 
+ProyeCto final bootcamp Neolan 
 
 Proceso ETL
 
 Machine Learning 
 
-Visaulización con Power BI
+VisuAlización con Power BI
 
